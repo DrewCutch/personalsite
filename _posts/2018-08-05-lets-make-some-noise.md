@@ -6,6 +6,7 @@ author: Drew Cutchins
 categories: blog
 featured: true
 use_math: true
+comments: true
 ---
 
 Today I want to make some noise functions.

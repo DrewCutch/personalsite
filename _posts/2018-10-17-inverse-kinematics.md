@@ -6,6 +6,7 @@ author: Drew Cutchins
 categories: blog
 featured: true
 use_math: true
+comments: true
 ---
 Inverse Kinematics is the practice of aligning a set of bones and joints to place their endpoint at a target position.
 
